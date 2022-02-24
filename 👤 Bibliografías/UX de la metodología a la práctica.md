@@ -5,9 +5,9 @@
 
 - [[Inception Desk]]
 
-- [[Protopersona]]
+- [[Proto persona]]
 
-- [[¿Cómo entender al usuario?]]
+- [[Cómo entender al usuario]]
 
 ### 4. Mapeando experiencias
 - [[Business Model Canvas]]
