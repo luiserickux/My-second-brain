@@ -1,0 +1,3 @@
+**Las personas no toman decisiones por juicio propio (la mayoría de veces), si no que, toman las decisiones en base a lo que ven con mas frecuencia y por lo tanto, cada uno se siente identificado con personas con las nos "parecemos".**
+
+> Nuestras desiciones no se basan en probabilidad, buen juicio o beneficio propio. Si no que nuestras desiciones están mas influenciadas por aquello que vemos con mas frecuencia.
