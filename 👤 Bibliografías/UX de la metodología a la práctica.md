@@ -6,7 +6,6 @@
 ![[UX de la metodología a la práctica.png]]
 
 ## Índice del contenido
----
 ### 3. Entendiendo el proyecto
 - [[Design Thinking]]
 

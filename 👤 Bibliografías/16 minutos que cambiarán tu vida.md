@@ -16,7 +16,7 @@
 ### Sección 3
 - [[La psicología de la sociedad]]
 
-- [[Los 3 pilares de La psicología de la sociedad]]]
+- [[Los 3 pilares de La psicología de la sociedad]]
 
 ### Conclusiones
 - [[-Por qué sufrimos de depresión a ansiedad-]]
