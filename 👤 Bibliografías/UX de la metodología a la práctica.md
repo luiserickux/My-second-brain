@@ -1,11 +1,12 @@
 ### UX de la metodología a la práctica
 **Autor:** Mauricio García
-**Link:** https://app.ed.team/cursos/practical-ux
-**Estado:** Terminado
+**Link:** https://ed.team/cursos/practical-ux
+**Estado:** Finalizado
 
 ![[UX de la metodología a la práctica.png]]
 
 ## Índice del contenido
+
 ### 3. Entendiendo el proyecto
 - [[Design Thinking]]
 

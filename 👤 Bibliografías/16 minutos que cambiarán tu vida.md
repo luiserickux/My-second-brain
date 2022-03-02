@@ -6,7 +6,7 @@
 ![[16 minutos que cambiarán tu vida.jpg]]
 
 ## Índice del contenido
----
+
 ### Sección 1
 - [[La esperanza es el peor de los males, pues prolonga el tormento del hombre]]
 
